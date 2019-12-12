@@ -1,0 +1,12 @@
+slowdown = 0;
+hp = 100;
+global.collided = false;
+collidedfire = false;
+image_speed = 0;
+walkSpeed = 10;
+grav = 1;
+hsp = 0;
+vsp = 0;
+jumpspeed = 30;
+movespeed = 4;
+moving = 0;
