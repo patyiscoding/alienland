@@ -2,7 +2,7 @@
 
 A small platform game with aliens and an unexpected ultimate game boss
 
-(note: pls don't judge/conclude much, the boss was just there for laughter)
+(note: pls don't judge/conclude much, the boss was just there for laughter :joy:)
 
 ## Built With
 
