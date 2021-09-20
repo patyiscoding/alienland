@@ -4,6 +4,8 @@ A small platform game with aliens and an unexpected ultimate game boss
 
 ![](preview.gif)
 
+Unfortunately, the written code isn't here in the game zip; I'll try to fix that in the near future once I find the project file!
+
 (note: pls don't judge/conclude much, the boss was just there for laughter :joy:)
 
 ## Built With
